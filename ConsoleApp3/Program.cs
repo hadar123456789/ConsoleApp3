@@ -1,5 +1,6 @@
 ﻿
 
+//hello from israel
 StockExchangeMonitor stockExchangeMonitor = new StockExchangeMonitor();
 stockExchangeMonitor.PriceChangeHandler = ShowPrice;
 stockExchangeMonitor.Start();
